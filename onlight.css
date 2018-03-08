@@ -1,0 +1,10 @@
+body {
+margin:30px 0px;padding:0px;text-align:center;top:0;bottom:0;left:0;right:0;background-color:#17202A; position:fixed; }
+#wrapper { width: 950px;margin: 0 auto; }
+h1 {
+font-size: 62px;text-align: center;color: white; font-family:"Segoe UI Bold",Arial, Helvetica, sans-serif; }
+a {
+font-size: 52px;text-decoration:none; border-color:black;border-top:5px solid;border-bottom:5px solid;border-right:5px solid;border-left:5px solid;border-radius:30px 30px 30px;font-family:"Trebuchet MS",Arial, Helvetica, sans-serif; background-color:#273746;padding:15px;text-align:center; }
+tr {
+font-size: 35px;text-decoration:none;width:110px;height:0px; font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;background-color:#212F3D;padding:0px;text-align:center; }
+a:link {color:yellow;} a:visited {color:yellow;} a:hover {color:blue;} a:active {color:yellow;}  
